@@ -15,7 +15,7 @@
 ## 🧠 About Me
 
 - 🎓 BBA(CA) Student  
-- 🌐 Learning **Web Development**,
+- 🌐 Learning **Web Development**
 - 🎯 Passionate about building real-world applications
 - 💡 Projects: **Dine Flick**, **Trekking Booking Site**, **Shopify Webflow Store**
 
